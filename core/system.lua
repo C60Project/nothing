@@ -216,7 +216,7 @@ function create_config( )
     "Plugins",
     "Terminal"
     },
-    sudo_users = {184018132},--Sudoer
+    sudo_users = {92453612},--Sudoer
     friend_users = {89776826},--friends 
     moderation = {data = 'core/data/moderation.json'},
     about_text = [[]],
